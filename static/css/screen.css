@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #55d6e7;
+  background: #00b4d4;
 }
 
 #header-arrow {
@@ -473,7 +473,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #f68c00 no-repeat center center;
+  background: #272969 no-repeat center center;
   background-size: cover;
 }
 
